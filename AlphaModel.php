@@ -1,7 +1,7 @@
 <?php
 /**
  *** AlphaModel ***
- * @author Charles Paul, dev-charles15531@gmail.com
+ * @author Charles Paul, dev.charles15531@gmail.com
  * @version 1.0
  * @license MIT
  * 
