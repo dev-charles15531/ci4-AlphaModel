@@ -15,7 +15,7 @@ CodeIgniter 4 model class for basic database operations.
   $myModel = new AlphaModel();
  ````
  In creating the pagination functionality, firstly a fake table is set using the setFakeTable(string $table) method.\
- NOTE: -> The table passed as an argument to this method must not be a table in your database ( guess thats why its called a fake table )\
+ NOTE:\ -> The table passed as an argument to this method must not be a table in your database ( guess thats why its called a fake table )\
 	   -> This method will create a VIEW in your database with the method argument passed.
  ````php
   // Set the fake table.
